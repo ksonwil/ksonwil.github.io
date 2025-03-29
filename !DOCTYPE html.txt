@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proofreading & Copyediting Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 40px;
+        }
+        .contact {
+            background-color: #eee;
+            padding: 20px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            color: white;
+            background-color: #4a90e2;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .centered-text {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body>
+    <header>Professional Copyediting & Proofreading</header>
+    <section>
+        <h2>Services</h2>
+        <ul>
+            <li>Proofreading for grammar, punctuation, and spelling</li>
+            <li>Light editing for clarity, tone, and readability</li>
+            <li>Academic and business writing assistance</li>
+        </ul>
+    </section>
+    <section>
+        <h2>About Me</h2>
+        <p class="centered-text">Experienced in working with ESL students and professionals worldwide,<br>specializing in academic and business writing.</p>
+    </section>
+    <section>
+        <h2>Portfolio</h2>
+        <p>Here are some examples of my work:</p>
+        <ul>
+            <li><a href="#">Sample 1 - Academic Paper</a></li>
+            <li><a href="#">Sample 2 - Business Report</a></li>
+            <li><a href="#">Sample 3 - Blog Article</a></li>
+        </ul>
+    </section>
+    <section>
+        <h2>Pricing</h2>
+        <p>My rates are competitive and tailored to your needs:</p>
+        <ul>
+            <li>Proofreading: $X per 1,000 words</li>
+            <li>Light Editing: $Y per 1,000 words</li>
+            <li>Custom pricing for larger projects</li>
+        </ul>
+    </section>
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Reach out for inquiries or a quote.</p>
+        <a href="mailto:committedproofreading@gmail.com" class="button">Email Me</a>
+    </section>
+</body>
+</html>
